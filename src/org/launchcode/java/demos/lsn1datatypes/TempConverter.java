@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class TempConverter {
     public static void main(String[] args) {
         double fahrenheit;
+        //this is a comment for the user
         double celsius;
         Scanner input;
 
